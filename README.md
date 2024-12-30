@@ -10,8 +10,6 @@ A classic "Simon Says" game built with **HTML**, **CSS**, and **JavaScript**. Te
 ## 🌟 Features
 - **Interactive Gameplay**: Watch, remember, and replicate the sequence of lights and sounds.
 - **Progressive Difficulty**: The sequence gets longer with each level, challenging your memory.
-- **Responsive Design**: Play seamlessly on desktop and mobile devices.
-- **Audio Effects**: Engage with sounds that match each button press.
 
 ## 🚀 How to Play
 1. Click "Start" to begin the game.
@@ -20,8 +18,8 @@ A classic "Simon Says" game built with **HTML**, **CSS**, and **JavaScript**. Te
 4. Repeat and keep up as the sequence grows longer with each round.
 5. If you press the wrong button, the game ends.
 
-## 💻 Live Demo
-[Add a link to your hosted demo, if available]
+```## 💻 Live Demo
+
 
 ## 📂 Repository Structure
 ```plaintext
